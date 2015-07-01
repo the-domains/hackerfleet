@@ -5,16 +5,16 @@ starred: true
 keywords: []
 description: ''
 title: Hackerfleet
+datePublished: '2015-07-01T21:11:13.067Z'
+dateModified: '2015-07-01T21:20:54.123Z'
+sourcePath: _posts/2015-07-01-hackerfleet.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-datePublished: '2015-07-01T21:11:13.067Z'
-dateModified: '2015-07-01T21:14:39.636Z'
-sourcePath: _posts/2015-07-01-hackerfleet.md
-published: true
 _type: null
 
 ---
