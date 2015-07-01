@@ -13,7 +13,7 @@ app_links: []
 isBasedOnUrl: 'http://www.linux-magazin.de/Ausgaben/2014/01/Hackerfleet'
 title: 'Open-Source-Hard- und Software fürs Boot " Linux-Magazin'
 datePublished: '2015-07-01T21:17:15.203Z'
-dateModified: '2015-07-01T21:17:15.203Z'
+dateModified: '2015-07-01T21:20:53.864Z'
 sourcePath: _posts/2015-07-01-open-source-hard-und-software-furs-boot-linux-magazin.md
 published: true
 _context: 'http://schema.org'
