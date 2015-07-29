@@ -23,7 +23,7 @@ color:
     - '#5b92b2'
   brandStrength: 1
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0.4375
   rhythmicContrast: 0.5
 purpose:
   - name: shares
