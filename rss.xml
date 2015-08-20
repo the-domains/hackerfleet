@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Untitled RSS Feed]]></title>
+        <description><![CDATA[Untitled RSS Feed]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 20 Aug 2015 07:13:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[C3TV - Hackerfleet - what happend?]]></title>
+            <description><![CDATA[<article><h1>C3TV - Hackerfleet - what happend?</h1><p>Our Talk on CCCamp15</p></article>]]></description>
+            <link>http://media.ccc.de/browse/conferences/camp2015/camp2015-6969-hackerfleet_-_what_happend.html#video&amp;t=15</link>
+            <guid isPermaLink="false">f5f11a30-bedc-4992-8798-678dd12f4c13</guid>
+            <pubDate>Thu, 20 Aug 2015 07:09:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
