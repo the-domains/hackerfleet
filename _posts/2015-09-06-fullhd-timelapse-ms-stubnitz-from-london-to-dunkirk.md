@@ -30,17 +30,19 @@ app_links:
     package: com.google.android.youtube
   - url: 'http://www.youtube.com/watch?v=ntQy3uiA6oU&feature=applinks'
     type: web
-title: 'FullHD TIMELAPSE, MS Stubnitz, from London to Dunkirk,'
-datePublished: '2015-09-06T10:44:07.562Z'
-dateModified: '2015-09-06T10:39:06.125Z'
+title: 'MS Stubnitz, from London to Dunkirk,'
+datePublished: '2015-09-06T10:48:39.713Z'
+dateModified: '2015-09-06T10:48:25.215Z'
+sourcePath: _posts/2015-09-06-fullhd-timelapse-ms-stubnitz-from-london-to-dunkirk.md
+published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-09-06-fullhd-timelapse-ms-stubnitz-from-london-to-dunkirk.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
