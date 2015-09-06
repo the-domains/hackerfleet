@@ -31,8 +31,8 @@ app_links:
   - url: 'http://www.youtube.com/watch?v=ntQy3uiA6oU&feature=applinks'
     type: web
 title: 'FullHD TIMELAPSE, MS Stubnitz, from London to Dunkirk,'
-datePublished: '2015-09-06T10:39:06.125Z'
-dateModified: '2015-09-06T10:38:42.011Z'
+datePublished: '2015-09-06T10:44:07.562Z'
+dateModified: '2015-09-06T10:39:06.125Z'
 authors: []
 publisher:
   name: YouTube
