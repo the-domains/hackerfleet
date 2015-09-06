@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=v2pHopmXQUo'
 title: Exchange of Pilots underway on the Thamse for the MS Stubnitz
-datePublished: '2015-09-06T10:39:05.875Z'
-dateModified: '2015-09-06T10:37:47.713Z'
+datePublished: '2015-09-06T10:44:07.549Z'
+dateModified: '2015-09-06T10:39:05.875Z'
 sourcePath: _posts/2015-09-06-exchange-of-pilots-underway-on-the-thamse-for-the-ms-stubnit.md
 published: true
 _type: VideoObject
