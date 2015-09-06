@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=UTJp070_U9I&feature=youtu.be'
 title: 'OpenSeaData-Talk beim #ffwcw'
-datePublished: '2015-09-06T10:39:06.345Z'
-dateModified: '2015-09-06T10:37:39.366Z'
+datePublished: '2015-09-06T10:44:07.614Z'
+dateModified: '2015-09-06T10:39:06.345Z'
 sourcePath: _posts/2015-09-06-openseadata-talk-beim-ffwcw.md
 published: true
 _type: VideoObject
