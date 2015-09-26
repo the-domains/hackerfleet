@@ -5,8 +5,15 @@
         <description><![CDATA[Hackerfleet]]></description>
         <link>https://thegrid.ai/hackerfleet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Sep 2015 10:01:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2015 10:01:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hackerfleet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vesselpage]]></title>
+            <description><![CDATA[<article><h1>Vesselpage</h1><p>With lots and lots of Information about your own Vessel, for current and future Features</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a08636ec-da1a-49bf-9fe2-5c905c2931db.png"></article>]]></description>
+            <link>https://thegrid.ai/hackerfleet/vesselpage/index.html</link>
+            <guid isPermaLink="false">18033505-949f-42f8-986f-bebcc01db1c4</guid>
+            <pubDate>Sat, 26 Sep 2015 10:00:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Waypoint and Track planning]]></title>
             <description><![CDATA[<article><h1>Waypoint and Track planning</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a2e47da-f400-4626-839a-5c6adc88f1a5.png"></article>]]></description>
