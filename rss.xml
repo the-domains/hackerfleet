@@ -5,8 +5,15 @@
         <description><![CDATA[Hackerfleet]]></description>
         <link>https://thegrid.ai/hackerfleet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Sep 2015 10:00:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2015 10:01:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hackerfleet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Day and Night Border]]></title>
+            <description><![CDATA[<article><h1>Day and Night Border</h1><p>An interactive Layer that shows Sunset and Sunraise globally</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2eab9541-b187-4345-88be-63a96ef3548c.png"></article>]]></description>
+            <link>https://thegrid.ai/hackerfleet/day-and-night-border/index.html</link>
+            <guid isPermaLink="false">32314d93-701c-4a6b-9a33-3834bdaec973</guid>
+            <pubDate>Sat, 26 Sep 2015 10:00:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OpenSeaMap with Satellite Layer]]></title>
             <description><![CDATA[<article><h1>OpenSeaMap with Satellite Layer</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/590d66ae-7a81-45f4-b0dd-026ce088f0ec.png"></article>]]></description>
