@@ -5,8 +5,15 @@
         <description><![CDATA[Hackerfleet]]></description>
         <link>https://thegrid.ai/hackerfleet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Sep 2015 10:01:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2015 10:01:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hackerfleet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Crewpage]]></title>
+            <description><![CDATA[<article><h1>Crewpage</h1><p>Details about Crewmembers, for several planning and management features</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/efc669b8-cec4-4c01-a59f-714ef53ea460.png"></article>]]></description>
+            <link>https://thegrid.ai/hackerfleet/crewpage/index.html</link>
+            <guid isPermaLink="false">af4770f5-0c0e-47e1-9253-018d6cb37778</guid>
+            <pubDate>Sat, 26 Sep 2015 10:00:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vesselpage]]></title>
             <description><![CDATA[<article><h1>Vesselpage</h1><p>With lots and lots of Information about your own Vessel, for current and future Features</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a08636ec-da1a-49bf-9fe2-5c905c2931db.png"></article>]]></description>
