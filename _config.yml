@@ -1,4 +1,19 @@
-analytics: {}
+name: Hackerfleet
+favicon: null
+layout_spectrum: 0.75037
+typography_spectrum: 0.55508
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#005688'
@@ -8,14 +23,9 @@ color:
     - '#5b92b2'
   brandStrength: 0.638513
   lightness: 0.5
-  rhythmicContrast: 0.658784
   saturation: 0.4375
-cta: {}
-layout_spectrum: 0.398649
-name: Hackerfleet
-opengraph: {}
+  rhythmicContrast: 0.658784
 purpose:
   - name: shares
     item: fda66d88-b1cb-469b-8f4f-9aac505419d6
     url: 'https://www.facebook.com/Hackerfleet'
-typography_spectrum: 0.55508
