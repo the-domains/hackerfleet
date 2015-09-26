@@ -5,8 +5,15 @@
         <description><![CDATA[Hackerfleet]]></description>
         <link>https://thegrid.ai/hackerfleet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Sep 2015 10:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2015 10:00:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hackerfleet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OpenSeaMap with Satellite Layer]]></title>
+            <description><![CDATA[<article><h1>OpenSeaMap with Satellite Layer</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/590d66ae-7a81-45f4-b0dd-026ce088f0ec.png"></article>]]></description>
+            <link>https://thegrid.ai/hackerfleet/openseamap-with-satellite-layer/index.html</link>
+            <guid isPermaLink="false">0bda0994-83da-4954-aba1-d3c21eacd175</guid>
+            <pubDate>Sat, 26 Sep 2015 10:00:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OpenSeaData-Talk beim #ffwcw]]></title>
             <description><![CDATA[<article><h1>OpenSeaData-Talk beim #ffwcw</h1><p>Ijons Talk über das OpenSeaDataMesh, auf dem Wireless Community Weekend 2012 am 19.5.2012 in der c-base spacestation. Das OpenSeaDataMesh ist ein Projekt der Hackerfleet (und ein working-title ebenso!) das zum Ziel hat ein offenes Meshnetzwerk auf See aufzubauen. Dazu wird auf Freifunk-Technik aufgebaut mit eigener Software um Daten auszutauschen über das Meshnetz.</p><img src="https://i.ytimg.com/vi/UTJp070_U9I/hqdefault.jpg"></article>]]></description>
