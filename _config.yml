@@ -25,7 +25,5 @@ color:
   lightness: 0.5
   saturation: 0.4375
   rhythmicContrast: 0.658784
-purpose:
-  - name: shares
-    item: fda66d88-b1cb-469b-8f4f-9aac505419d6
-    url: 'https://www.facebook.com/Hackerfleet'
+purpose: []
+github: true
